@@ -1,0 +1,17 @@
+C:\Users\munte\Desktop\Facultate\Laboratories-TSP.NET\UseCases\UseCases\bin\Debug\EF-UseCases.exe.config
+C:\Users\munte\Desktop\Facultate\Laboratories-TSP.NET\UseCases\UseCases\bin\Debug\EF-UseCases.exe
+C:\Users\munte\Desktop\Facultate\Laboratories-TSP.NET\UseCases\UseCases\bin\Debug\EF-UseCases.pdb
+C:\Users\munte\Desktop\Facultate\Laboratories-TSP.NET\UseCases\UseCases\bin\Debug\EntityFramework.dll
+C:\Users\munte\Desktop\Facultate\Laboratories-TSP.NET\UseCases\UseCases\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\munte\Desktop\Facultate\Laboratories-TSP.NET\UseCases\UseCases\bin\Debug\EntityFramework.xml
+C:\Users\munte\Desktop\Facultate\Laboratories-TSP.NET\UseCases\UseCases\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\munte\Desktop\Facultate\Laboratories-TSP.NET\UseCases\UseCases\obj\Debug\UseCases.csprojAssemblyReference.cache
+C:\Users\munte\Desktop\Facultate\Laboratories-TSP.NET\UseCases\UseCases\obj\Debug\UseCases.csproj.CoreCompileInputs.cache
+C:\Users\munte\Desktop\Facultate\Laboratories-TSP.NET\UseCases\UseCases\obj\Debug\UseCases.csproj.CopyComplete
+C:\Users\munte\Desktop\Facultate\Laboratories-TSP.NET\UseCases\UseCases\obj\Debug\EF-UseCases.exe
+C:\Users\munte\Desktop\Facultate\Laboratories-TSP.NET\UseCases\UseCases\obj\Debug\EF-UseCases.pdb
+C:\Users\munte\Desktop\Facultate\Laboratories-TSP.NET\UseCases\UseCases\obj\Debug\EF_UseCases.Migrations.BusinessContext.resources
+C:\Users\munte\Desktop\Facultate\Laboratories-TSP.NET\UseCases\UseCases\obj\Debug\UseCases.csproj.GenerateResource.cache
+C:\Users\munte\Desktop\Facultate\Laboratories-TSP.NET\UseCases\UseCases\obj\Debug\EF_UseCases.Migrations.EmployeeContext.resources
+C:\Users\munte\Desktop\Facultate\Laboratories-TSP.NET\UseCases\UseCases\obj\Debug\EF_UseCases.Migrations.PhotographContext.resources
+C:\Users\munte\Desktop\Facultate\Laboratories-TSP.NET\UseCases\UseCases\obj\Debug\EF_UseCases.Migrations.ProductContext.resources
