@@ -1,0 +1,12 @@
+C:\Users\munte\source\repos\PostComment\ObjectWCF\bin\Debug\ObjectWCF.dll
+C:\Users\munte\source\repos\PostComment\ObjectWCF\bin\Debug\ObjectWCF.pdb
+C:\Users\munte\source\repos\PostComment\ObjectWCF\bin\Debug\PostComment.dll
+C:\Users\munte\source\repos\PostComment\ObjectWCF\bin\Debug\EntityFramework.dll
+C:\Users\munte\source\repos\PostComment\ObjectWCF\bin\Debug\PostComment.pdb
+C:\Users\munte\source\repos\PostComment\ObjectWCF\bin\Debug\PostComment.dll.config
+C:\Users\munte\source\repos\PostComment\ObjectWCF\bin\Debug\EntityFramework.xml
+C:\Users\munte\source\repos\PostComment\ObjectWCF\obj\Debug\ObjectWCF.csprojAssemblyReference.cache
+C:\Users\munte\source\repos\PostComment\ObjectWCF\obj\Debug\ObjectWCF.csproj.CoreCompileInputs.cache
+C:\Users\munte\source\repos\PostComment\ObjectWCF\obj\Debug\ObjectWCF.csproj.CopyComplete
+C:\Users\munte\source\repos\PostComment\ObjectWCF\obj\Debug\ObjectWCF.dll
+C:\Users\munte\source\repos\PostComment\ObjectWCF\obj\Debug\ObjectWCF.pdb

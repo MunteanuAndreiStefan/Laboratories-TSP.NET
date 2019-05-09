@@ -1,0 +1,9 @@
+C:\Users\munte\source\repos\PostComment\ClientPostComment\obj\Debug\ClientPostComment.Form1.resources
+C:\Users\munte\source\repos\PostComment\ClientPostComment\obj\Debug\ClientPostComment.Properties.Resources.resources
+C:\Users\munte\source\repos\PostComment\ClientPostComment\obj\Debug\ClientPostComment.csproj.GenerateResource.cache
+C:\Users\munte\source\repos\PostComment\ClientPostComment\obj\Debug\ClientPostComment.csproj.CoreCompileInputs.cache
+C:\Users\munte\source\repos\PostComment\ClientPostComment\bin\Debug\ClientPostComment.exe.config
+C:\Users\munte\source\repos\PostComment\ClientPostComment\bin\Debug\ClientPostComment.exe
+C:\Users\munte\source\repos\PostComment\ClientPostComment\bin\Debug\ClientPostComment.pdb
+C:\Users\munte\source\repos\PostComment\ClientPostComment\obj\Debug\ClientPostComment.exe
+C:\Users\munte\source\repos\PostComment\ClientPostComment\obj\Debug\ClientPostComment.pdb

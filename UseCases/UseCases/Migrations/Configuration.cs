@@ -1,15 +1,15 @@
 namespace EF_UseCases.Migrations
 {
     using System.Data.Entity.Migrations;
-
-    internal sealed class Configuration : DbMigrationsConfiguration<BusinessContext2>
+    /*
+    internal sealed class Configuration : DbMigrationsConfiguration<BusinessContext>
     {
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
         }
 
-        protected override void Seed(BusinessContext2 context)
+        protected override void Seed(BusinessContext context)
         {
             //  This method will be called after migrating to the latest version.
 
@@ -17,5 +17,6 @@ namespace EF_UseCases.Migrations
             //  to avoid creating duplicate seed data.
         }
     }
+*/
 }
 

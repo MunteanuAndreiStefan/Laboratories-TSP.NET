@@ -8,7 +8,7 @@ namespace EF_UseCases
         static void Main(string[] args)
         {
 
-            /*
+            
             using (var context = new BusinessContext())
             {
                 var business = new Business
@@ -36,11 +36,11 @@ namespace EF_UseCases
                 context.Businnesses.Add(web);
                 context.SaveChanges();
             }
-            */
+
 
 
             /*
-            using (var context = new BusinessContext())
+            using (var context = new BusinessContext2())
             {
                 Console.WriteLine("\n--- All Businesses ---");
                 foreach (var b in context.Businnesses)

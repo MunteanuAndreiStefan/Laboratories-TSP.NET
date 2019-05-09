@@ -1,0 +1,11 @@
+C:\Users\munte\source\repos\PostComment\PostComment\bin\Debug\PostComment.dll.config
+C:\Users\munte\source\repos\PostComment\PostComment\bin\Debug\PostComment.dll
+C:\Users\munte\source\repos\PostComment\PostComment\bin\Debug\PostComment.pdb
+C:\Users\munte\source\repos\PostComment\PostComment\bin\Debug\EntityFramework.dll
+C:\Users\munte\source\repos\PostComment\PostComment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\munte\source\repos\PostComment\PostComment\bin\Debug\EntityFramework.xml
+C:\Users\munte\source\repos\PostComment\PostComment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\munte\source\repos\PostComment\PostComment\obj\Debug\PostComment.csproj.CoreCompileInputs.cache
+C:\Users\munte\source\repos\PostComment\PostComment\obj\Debug\PostComment.csproj.CopyComplete
+C:\Users\munte\source\repos\PostComment\PostComment\obj\Debug\PostComment.dll
+C:\Users\munte\source\repos\PostComment\PostComment\obj\Debug\PostComment.pdb

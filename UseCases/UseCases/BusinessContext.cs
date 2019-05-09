@@ -2,10 +2,10 @@
 
 namespace EF_UseCases
 {
-    class BusinessContext2 : DbContext
+    class BusinessContext : DbContext
     {
-        public BusinessContext2()
-            : base("name=BusinessContext2")
+        public BusinessContext()
+            : base("name=BusinessContext")
         {
         }
         // public virtual DbSet<MyEntity> MyEntities { get; set; }
